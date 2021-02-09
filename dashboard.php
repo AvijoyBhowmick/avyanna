@@ -54,7 +54,7 @@
 	<center><a class="btn btn-dark btn_nav " style="width: 200px;margin-bottom: 20px" href="category.php" role="button">Categories Here</a></center>
 
 
-<div class="row">
+<div class="row" style="margin-top:30px;margin-bottom:30px;margin-left:10px;margin-right:10px">
   <div class="column">
     <div class="card">
       <h1>Laws</h1>
@@ -89,19 +89,37 @@
 </div>
 
 
-<div class="container;" width="100%">
+<div class="container" width="100%" style="margin-top:30px;margin-bottom:30px">
 	<div class="row">
 		<div class="col-12">
 			<div class="row">
 				<div class="col-6">
-					<center><h1> Safety Tips</h1></center>
+					<div class="card">
+          <center><h1> Safety Tips</h1></center>
+          </div>
 				</div>
 				<div class="col-6">
-					<center><h1> Recent Cases</h1></center>
+					<div class="card">
+          <center><h1> Recent Cases</h1></center>
+          </div>
 				</div>
 			</div>
 		</div>
 	</div>
+</div>
+
+<h2><center>Our Team</center></h2>
+
+<div class="container" width="100%">
+  <div class="row">
+    <div class="col-12">
+      <div class="row">
+        <div class="col-6">
+          <img src="" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 </body>
