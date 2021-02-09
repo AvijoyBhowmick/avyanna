@@ -110,16 +110,28 @@
 
 <h2><center>Our Team</center></h2>
 
-<div class="container" width="100%">
-  <div class="row">
-    <div class="col-12">
-      <div class="row">
-        <div class="col-6">
-          <img src="" alt="">
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="container" width="100%" style="margin-top:30px;margin-bottom:30px">
+	<div class="row">
+		<div class="col-12" style="margin-left:30px;">
+			<div class="row">
+				<div class="col-2" style="margin-left:10px;margin-right:10px">
+        <img src="assets/circle.png" width="100%" height="150"  style="margin-bottom:10px; margin-top: 10px" >
+				</div>
+				<div class="col-2" style="margin-left:10px;margin-right:10px">
+        <img src="assets/circle.png" width="100%" height="150"  style="margin-bottom:10px; margin-top: 10px" >
+				</div>
+        <div class="col-2" style="margin-left:10px;margin-right:10px">
+        <img src="assets/circle.png" width="100%" height="150"  style="margin-bottom:10px; margin-top: 10px" >
+				</div>
+				<div class="col-2" style="margin-left:10px;margin-right:10px">
+        <img src="assets/circle.png" width="100%" height="150"  style="margin-bottom:10px; margin-top: 10px" >
+				</div>
+        <div class="col-2" style="margin-left:10px;margin-right:10px">
+        <img src="assets/circle.png" width="100%" height="150"  style="margin-bottom:10px; margin-top: 10px" >
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
 </body>
