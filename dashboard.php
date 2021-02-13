@@ -134,6 +134,8 @@
 	</div>
 </div>
 
+<h1>Add the footer block here in a seperate file</h1>
+
 </body>
 </html>
 
