@@ -136,6 +136,7 @@
 
 <h1>Add the footer block here in a seperate file</h1>
 <h2> Along with other pages given by tariq</h2>
+<h3>Just Chatting</h3>
 </body>
 </html>
 
