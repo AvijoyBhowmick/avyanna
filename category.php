@@ -16,11 +16,60 @@
 <link href="https://fonts.googleapis.com/css2?family=Arvo:wght@700&display=swap" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@500&display=swap" rel="stylesheet">
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+.row {margin: 0 -5px;}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color:#e5e4e2;
+}
+</style>
+
+
+
+
+
 </head>
 <body style="background-color: #fef773">
 	
 	<?php include "header.php";?>
 
+
+<!--
 	<h1><center><b>Category</b></center></h1>
 	<div class="container">
 <div class="row">
@@ -67,6 +116,82 @@
     <p>Architect & Engineer</p>
   </div>
 </div> 
+  </div>
+</div>
+-->
+
+
+<CENTER><h1>CATEGORY</h1></CENTER>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <h3>RAPE</h3>
+      <p><img src ="assets/rape.jpg" height="250" width="250"></p>
+      
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <h3>ABDUCTIONS</h3>
+      <p><img src ="assets/abduction.jpg" height="250" width="250"></p>
+      
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <h3>DOWRY</h3>
+      <p><img src ="assets/dowry_car.jpg" height="250" width="250"></p>
+      
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <h3>TORTURE</h3>
+      <p><img src ="assets/torture_girl.jpg" height="250" width="250"></p>
+      
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <h3>MOLESTATION</h3>
+      <p> <img src ="assets/molestation.jpg" height="250" width="250"></p>
+      
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <h3>SEXUAL HARASMENT</h3>
+      <p><img src ="assets/sexual harasment.jpeg" height="250" width="250"></p>
+      
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <h3>IMPORTATION OF GIRLS</h3>
+      <p><img src ="assets/importation of g.jpeg" height="250" width="250"></p>
+     
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <h3>CRIMES IDENTIFIED UNDER(SLL)</h3>
+      <p><img src ="assets/CIUSL.jpg" height="250" width="250"></p>
+      
+    </div>
   </div>
 </div>
 
