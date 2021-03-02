@@ -164,7 +164,7 @@ body {
   <div class="column">
     <div class="card">
       <h3>MOLESTATION</h3>
-      <p> <img src ="assets/molestation.jpg" height="250" width="250"></p>
+      
       
     </div>
   </div>
