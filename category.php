@@ -141,7 +141,7 @@ body {
   <div class="column">
     <div class="card">
       <h3>DOWRY</h3>
-      
+      <a href="c3.php"><p><img src ="assets/dowry_car.jpg" height="250" width="250"></p></a>
       
     </div>
   </div>
