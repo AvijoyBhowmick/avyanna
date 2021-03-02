@@ -126,8 +126,7 @@ body {
   <div class="column">
     <div class="card">
       <h3>RAPE</h3>
-      <p><img src ="assets/rape.jpg" height="250" width="250"></p>
-      
+      <a href="c1.php"><p><img src ="assets/rape.jpg" height="250" width="250"></p></a>
     </div>
   </div>
 
