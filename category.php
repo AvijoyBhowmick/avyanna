@@ -133,7 +133,7 @@ body {
   <div class="column">
     <div class="card">
       <h3>ABDUCTIONS</h3>
-      <p><img src ="assets/abduction.jpg" height="250" width="250"></p>
+      <a href="c2.php"><p><img src ="assets/abduction.jpg" height="250" width="250"></p></a>
       
     </div>
   </div>
@@ -141,7 +141,7 @@ body {
   <div class="column">
     <div class="card">
       <h3>DOWRY</h3>
-      <p><img src ="assets/dowry_car.jpg" height="250" width="250"></p>
+      
       
     </div>
   </div>
