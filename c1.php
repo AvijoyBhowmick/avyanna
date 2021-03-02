@@ -21,7 +21,7 @@
 <table>
 <tr>
 <td><fieldset style="border-color:#333; font-size:30px; font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif" ><legend >
-<h1>As  per  <font color="#FF0000">C</font>ONSTITUTION</h1></legend><img src="rape.jpg" height="300" style="margin-top:5px;" align="right" border="3">
+<h1>As  per  <font color="#FF0000">C</font>ONSTITUTION</h1></legend><img src="assets/rape.jpg" height="300" style="margin-top:5px;" align="right" border="3">
 <font  face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif" size="+3"><u><b>Sexual offenses: as per Section 375 to 377 of IPC </u></b></font><font size="+2" color="#000066">Talks about sexual offenses as per section 375 defined as Rape, this term is derived from the Latin term rapio, which means to seize. Thus rape literally means a forcible seizure and that is essential characteristics of offense. We can also say that intercourse with women without her consent.</font><br>
 
 <font size="+3" face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif"><u><b>As per Section 375:</u></b></font><font size="+2" color="#000066"> A man is said to commit “rape” who, except in the case hereinafter excepted, has sexual intercourse with a woman under circumstances falling under any of the six following descriptions:-</font><br><br>

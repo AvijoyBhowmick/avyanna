@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td><fieldset style="border-color:#333; font-size:30px; font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif" ><legend >
-<h1>As  per  <font color="#FF0000">C</font>ONSTITUTION</font></h1></legend><img src="abduction.jpg" height="300" style="margin-top:5px;" align="right" border="3">
+<h1>As  per  <font color="#FF0000">C</font>ONSTITUTION</font></h1></legend><img src="assets/abduction.jpg" height="300" style="margin-top:5px;" align="right" border="3">
 <font  face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif" size="+3"><u><b>Kidnapping and Abduction for a different purpose(section 363 to 373): as per section 363 </u></b></font><font size="+2" color="#000066">Talks about punishments for kidnapping Whoever kidnaps any person from India or from lawful guardianship, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. In Chandrakala v. Vipin Menon.The supreme court declined to convict the father, who was accused of kidnapping his minor daughter who was living with her maternal grand father due to strained relationship between her parents, on the ground that the accused was the natural guardian of the child.<br></font><br>
 
 <font size="+3" face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif"><u><b>As per Section 359: </u></b></font><font size="+2" color="#000066">Defined as kidnapping, Kidnapping is of two types: kidnapping from India, and kidnapping from lawful guardianship.</font><br><br>

@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td><fieldset style="border-color:#333; font-size:30px; font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif" ><legend >
-<h1>As  per <font color="#FF0000">C</font>ONSTITUTION</font></h1></legend><img src="sexual harasment.jpeg" height="300" style="margin-top:5px;" align="right" border="3">
+<h1>As  per <font color="#FF0000">C</font>ONSTITUTION</font></h1></legend><img src="assets/sexual harasment.jpeg" height="300" style="margin-top:5px;" align="right" border="3">
 <font  face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif" size="+3"><u><b>As per Section 354 A talks about: </u></b></font><font size="+2" color="#000066">A man committing any of the following acts—<br>
 [i]Physical contact and advances involving unwelcome and explicit sexual overtures.<br>
 [ii]A demand or request for sexual favours.<br>

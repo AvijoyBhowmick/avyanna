@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td><fieldset style="border-color:#333; font-size:30px; font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif" ><legend >
-<h1>As  per  <font color="#FF0000">C</font>ONSTITUTION</font></h1></legend><img src="importation of g.jpeg" height="300" style="margin-top:5px;" align="right" border="3">
+<h1>As  per  <font color="#FF0000">C</font>ONSTITUTION</font></h1></legend><img src="assets/importation of g.jpeg" height="300" style="margin-top:5px;" align="right" border="3">
 <font  face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif" size="+3"><u><b>As per Section 366B Importation of girl from foreign country: </u></b></font><font size="+2" color="#000066">Whoever imports into India from any country outside India or from the State of Jammu and Kashmir any girl under the age of twenty-one years with intent that she may be, or knowing it to be likely that she will be, forced or seduced to illicit intercourse with another person, shall be punishable with imprisonment which may extend to ten years, and shall also be liable to fine.
  </font><br>
 

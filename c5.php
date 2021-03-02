@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td><fieldset style="border-color:#333; font-size:30px; font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif" ><legend >
-<h1>As  per <font color="#FF0000">C</font>ONSTITUTION</font></h1></legend><img src="molestation.jpg" height="300" style="margin-top:5px;" align="right" border="3">
+<h1>As  per <font color="#FF0000">C</font>ONSTITUTION</font></h1></legend><img src="assets/molestation.jpg" height="300" style="margin-top:5px;" align="right" border="3">
 <font  face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif" size="+3"><u><b>As per Section 294 : </u></b></font><font size="+2" color="#000066">Any indecent or obscene act or singing, reciting, pronouncing of the lewd song done by the offender that causes ‘annoyance’ of others in public which cause mental nuisance will be considered molestation and the offender shall be punished with jail up to 3 months or fine or with both. </font><br><br>
 
 <font  face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif" size="+3"><u><b>As per Section 354 : </u></b></font><font size="+2" color="#000066">This Section provides that whoever uses assault or force which is criminal in nature to a woman having an intention to outrage her modesty shall be punished with jail of at least one year which may extend to five years along with fine. <br><br>

@@ -21,7 +21,7 @@
 <table>
 <tr>
 <td><fieldset style="border-color:#333; font-size:30px; font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif" ><legend >
-<h1>As  per <font color="#FF0000">C</font>ONSTITUTION</h1></legend><img src="dowry_car.jpg" height="300" style="margin-top:5px;" align="right" border="3">
+<h1>As  per <font color="#FF0000">C</font>ONSTITUTION</h1></legend><img src="assets/dowry_car.jpg" height="300" style="margin-top:5px;" align="right" border="3">
 <font  face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif" size="+3"><u><b>As per Section 304 B: </u></b></font><font size="+2" color="#000066">Dowry death- Where the death of a woman is caused by any burns or bodily injury or occurs otherwise than under normal circumstances within seven years of her marriage and it is shown that soon before her death she was subjected to cruelty or har­assment by her husband or any relative of her husband for, or in connection with, any demand for dowry, such death shall be called <u>"dowry death"</u>, and such husband or relative shall be deemed to have caused her death.</font><br>
 
 <font size="+3" face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif"><u><b>As per section 302 talks about punishment for murder: </u></b></font><font size="+2" color="#000066">It means Whoever commits murder shall be punished with death, or [imprisonment for life] and shall also be liable to fine.</font><br><br>

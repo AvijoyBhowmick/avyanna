@@ -21,7 +21,7 @@
 <table>
 <tr>
 <td><fieldset style="border-color:#333; font-size:30px; font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif" ><legend >
-<h1>As  per  <font color="#FF0000">C</font>ONSTITUTION</font></h1></legend><img src="torture_girl.jpg" height="300" style="margin-top:5px;" align="right" border="3">
+<h1>As  per  <font color="#FF0000">C</font>ONSTITUTION</font></h1></legend><img src="assets/torture_girl.jpg" height="300" style="margin-top:5px;" align="right" border="3">
 <font  face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif" size="+3"><u><b>As per Section 498 A talks about: </u></b></font><font size="+2" color="#000066">Both mental and physical.Husband or relative of husband of a woman subjecting her to cruelty.Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be pun­ished with imprisonment for a term which may extend to three years and shall also be liable to fine.</font><br>
 
 
