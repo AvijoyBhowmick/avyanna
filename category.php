@@ -149,7 +149,7 @@ body {
   <div class="column">
     <div class="card">
       <h3>TORTURE</h3>
-      <p><img src ="assets/torture_girl.jpg" height="250" width="250"></p>
+      
       
     </div>
   </div>
