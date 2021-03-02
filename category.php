@@ -172,7 +172,7 @@ body {
   <div class="column">
     <div class="card">
       <h3>SEXUAL HARASMENT</h3>
-      <a href=""></a>
+      <a href="c6.php"><p><img src ="assets/sexual harasment.jpeg" height="250" width="250"></p></a>
       
     </div>
   </div>
