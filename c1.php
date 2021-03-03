@@ -3,17 +3,28 @@
 <head>
 <meta charset="utf-8">
 <title>RAPE</title>
+
+<!--Bootstrap CDNs-->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<link rel="stylesheet" type="text/css" href="style.js">
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Arvo:wght@700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@500&display=swap" rel="stylesheet">
+
+
 </head>
 
 <body bgcolor="#fef773">
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr bgcolor="#343a40">
-<th><font color="#999999" size="+2" face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif"><a href="inbook 01.html" style="color:#CCC; text-decoration:none;">Home</a></font>
-<th><font color="#999999" size="+2" face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif"><a href="inbook 01.html" style="color:#CCC; text-decoration:none;">Category</a></font>
-<th><font color="#999999" size="+2" face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif"><a href="inbook 01.html" style="color:#CCC; text-decoration:none;">About Us</a></font>
-<th><font color="#999999" size="+2" face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif"><a href="inbook 01.html" style="color:#CCC; text-decoration:none;">Blogs</a></font>
-</tr>
-</table>
+
+<?php include "header.php";?>
+
 <div class="wrapper">
 
 <h1 align="center" style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:75px;"><font color="#FF0000">R</font>APE</font><br><font style="font-size:40%;"><u>[SECTION : 375 - 377]</u></h1></font>
