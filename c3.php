@@ -6,14 +6,7 @@
 </head>
 
 <body bgcolor="#fef773">
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr bgcolor="#343a40">
-<th><font color="#999999" size="+2" face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif"><a href="inbook 01.html" style="color:#CCC; text-decoration:none;">Home</a></font>
-<th><font color="#999999" size="+2" face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif"><a href="inbook 01.html" style="color:#CCC; text-decoration:none;">Category</a></font>
-<th><font color="#999999" size="+2" face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif"><a href="inbook 01.html" style="color:#CCC; text-decoration:none;">About Us</a></font>
-<th><font color="#999999" size="+2" face="Gotham, Helvetica Neue, Helvetica, Arial, sans-serif"><a href="inbook 01.html" style="color:#CCC; text-decoration:none;">Blogs</a></font>
-</tr>
-</table>
+
 <div class="wrapper">
 
 <h1 align="center" style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:75px;"><font color="#FF0000">D</font>OWRY</font><br><font style="font-size:40%;"><u>[SECTION : 302 - 304 B]</u></h1></font>
