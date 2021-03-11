@@ -94,40 +94,31 @@
 		<div class="col-12">
 			<div class="row">
 				<div class="col-6">
-					<div class="card">
-          <center><h1> Safety Tips</h1></center>
-          </div>
+          <a href="recent_cases.php">
+					  <div class="card">
+              <img src="assets/recent_cases.png" alt="">  
+            </div>
+          </a>
 				</div>
 				<div class="col-6">
-					<div class="card">
-          <center><h1> Recent Cases</h1></center>
-          </div>
+          <a href="safety_tips.php">  
+					  <div class="card">
+              <img src="assets/safety_tips.png" alt="">
+            </div>
+          </a>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
 
-<h2><center>Our Team</center></h2>
-
 <div class="container" width="100%" style="margin-top:30px;margin-bottom:30px">
 	<div class="row">
 		<div class="col-12" style="margin-left:30px;">
 			<div class="row">
-				<div class="col-2" style="margin-left:10px;margin-right:10px">
-        <img src="assets/circle.png" width="100%" height="150"  style="margin-bottom:10px; margin-top: 10px" >
-				</div>
-				<div class="col-2" style="margin-left:10px;margin-right:10px">
-        <img src="assets/circle.png" width="100%" height="150"  style="margin-bottom:10px; margin-top: 10px" >
-				</div>
-        <div class="col-2" style="margin-left:10px;margin-right:10px">
-        <img src="assets/circle.png" width="100%" height="150"  style="margin-bottom:10px; margin-top: 10px" >
-				</div>
-				<div class="col-2" style="margin-left:10px;margin-right:10px">
-        <img src="assets/circle.png" width="100%" height="150"  style="margin-bottom:10px; margin-top: 10px" >
-				</div>
-        <div class="col-2" style="margin-left:10px;margin-right:10px">
-        <img src="assets/circle.png" width="100%" height="150"  style="margin-bottom:10px; margin-top: 10px" >
+				<div class="col-12" style="margin-left:-15px;margin-right:15px">
+        <h1><center>Our Team</center></h1>
+        <img src="assets/team.png" width="100%" height="350"  style="margin-bottom:10px; margin-top: 10px" >
 				</div>
 			</div>
 		</div>
