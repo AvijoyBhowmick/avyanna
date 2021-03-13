@@ -35,7 +35,7 @@
   						<h6 >It's free and always will be</h6>
 					</div>
 					<div class="col-3" style="margin-top:170px; margin-bottom:20px ;margin-left:250px">
-						<img src="assets/libra.png" width="500" height="500">
+						<img src="assets/newlogoav.png" width="500" height="500">
 					</div>
 				</div>	
 			</div>
