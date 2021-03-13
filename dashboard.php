@@ -53,7 +53,7 @@
 	<br>
 	<center><a class="btn btn-dark btn_nav " style="width: 200px;margin-bottom: 20px" href="category.php" role="button">Categories Here</a></center>
 
-
+<center>
 <div class="row" style="margin-top:30px;margin-bottom:30px;margin-left:10px;margin-right:10px">
   <div class="column">
     <div class="card">
@@ -73,21 +73,13 @@
 
   <div class="column">
     <div class="card">
-     <h1>News</h1>
-     <img src="assets/libra.png" width="100%" height="200"  style="margin-bottom:10px; margin-top: 10px" >
-      <center><a class="btn btn-dark btn_nav " style="width: 200px" href="category.php" role="button">Learn More</a></center>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
       <h1>About Us</h1>
       <img src="assets/libra.png" width="100%" height="200"  style="margin-bottom:10px; margin-top: 10px" >
        <center><a class="btn btn-dark btn_nav " style="width: 200px" href="category.php" role="button">Learn More</a></center>
     </div>
   </div>
 </div>
-
+</center>
 
 <div class="container" width="100%" style="margin-top:30px;margin-bottom:30px">
 	<div class="row">
