@@ -57,7 +57,7 @@ body {
 </div>
 <table>
 <tr>
-<td><img src="newfinallogo.png" style="width:500px">
+<td><img src="assets/newfinallogo.png" style="width:500px">
 </td>
 <td style="font-size:30px;"><fieldset style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color:#000;"><font color="#fef773">Our webpage is made for Women Society.Their problem's one-step solution is our webpage 'AVYANNA'.Our well decorated webpage will help them to understand the laws regarding Women Society and they can take any legal step.We are trying to help the Women Society to build a greater INDIA.</font></fieldset></td> 
 <tr>
@@ -72,7 +72,7 @@ body {
     <div class="card">
     <img src="assets/Titisha.jpg" style="width:100%">
       <h3 style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:20px;">Titisha Kuila</h3>
-      <p style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:18px;">BCA student</p>
+      <p style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:18px;">BCA Student</p>
       
     </div>
   </div>
@@ -81,8 +81,8 @@ body {
   <div class="column">
     <div class="card">
     <img src="assets/Avijoy.jpg" style="width:96%">
-      <h3 style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:20px;">Avijoy Das Bhowmik</h3>
-      <p style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:18px;">BCA student</p>
+      <h3 style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:20px;">Avijoy Das Bhowmick</h3>
+      <p style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:18px;">BCA Student</p>
       
     </div>
   </div>
@@ -99,7 +99,7 @@ body {
     <div class="card">
     <img src="assets/ayan.jpg" style="width:96%">
       <h3 style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:20px;">Ayan Sikdar</h3>
-      <p style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:18px;">BCA student</p>
+      <p style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:18px;">BCA Student</p>
       
     </div>
   </div>
@@ -109,7 +109,7 @@ body {
     <div class="card">
     <img src="assets/Tariq.jpg" style="width:99%">
       <h3 style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:20px;">Sardar Tariq Aziz</h3>
-      <p style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:18px;">BCA student</p>
+      <p style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:18px;">BCA Student</p>
       
     </div>
   </div>

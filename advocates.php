@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>advocates</title>
+    <style>
+        h1{
+           text-align: center;
+        }
+	.a{
+		width: 1400px;
+            height: 80px;
+	text-align:center;
+padding-left: 20px;
+	}
+        .c{
+            width: 1400px;
+            height: 400px;
+            display: inline-block;
+            border-radius: 10px;
+            padding: 4px 15px;
+            cursor: pointer;
+            margin: 10px 15px;
+            background-color: rgb(199, 194, 194);
+            transition: transform 0.5;
+
+        }
+        body{
+            background-color: #fef773;
+        }
+    </style>
+</head>
+<body>
+    
+    <h1><u>ADVOCATES Near Me !</u></h1>
+	<div class=a>
+		<h2>Lawyers in Kolkata</h2>
+		<p>Few best lawyers around kolkata</p>
+	</div>
+    <div class=c>
+        <h2>Advocate Tapan Choudhury</h2>
+        <p>office location : 9A, Tarak Dutta Road, P.O Ballygunge
+            Kolkata, West Bengal<br>
+            Zip code: 700019 <br>
+            Court of practice: Supreme Court, Calcutta High Court, District Court <br>
+            Contact number : +9650499965 
+            Whatsapp is also available <br>
+            Email: tapsash@gmail.com
+            <h3>Description:</h3>  
+            I am an established Supreme court advocate with over 19 years of practice. Also practicing in Calcutta High Court. I am known for having fought for several High Profile Public Interest Litigations in Supreme court, My reputation in Calcutta High court is equally well known. You may contact me anytime regarding your legal matters be it family matters, civil or criminal Side, I am well versed in Consumer and intellectual property maters, my on going cases in NCLT and NCLAT are high profile. all in all I am the best choice you have in Kolkata and I am just a click away from you. Do call me without hesitation for your legal problems I will be your best guide.
+            <h3>Area of Practice:</h3>  Copyright, Divorce/Domestic Relations, Intellectual Property, Patent, Trademark, Company law, Civil, Law, Property law, Criminal Law.</p>
+    </div>
+    <div class=c>
+        <h2>Advocate Paridhi F. Rasiwasia</h2>
+        <p>office location : 7B Classic Tower, 56 Gariahat Road, Ballygunge Phari
+            Kolkata, West Bengal<br>
+            Zip code: 700019 <br>
+            Court of practice: Calcutta High Court, District Court <br>
+            Phone no: +91-9903236486
+            <br>
+            Email: paridhirasiwasia@gmail.com
+            <h3>Description:</h3>  
+            I am a corporate/commercial lawyer working independently in Kolkata. I have a Masters in law and finance from the University of Oxford and have worked with the Banking and Finance team of a Tier-1 law firm in Mumbai. I am proficient in drafting security documents, lease/rental agreements, licensing agreements, share purchase agreements and other commercial agreements. I have advisory and transactional experience of working with overseas clients on FDI, restructuring & other business matters.
+            <h3>Area of Practice:</h3>   Bankruptcy-Creditors, Business Litigation, Collection/Creditors, Construction, Consumer Law, Contract, Copyright, Corporation / Partnership, Creditors Rights, Employment, Entertainment, Finance, Franchise Law, General Practice, Intellectual Property, International, Labor-Employers, Landlord/Tenant, Lemon Law, Libel/Slander, Not For Profit, Patent, Trademark, Personal Injury-Plaintiffs, Personal Injury-Defense, Privacy Law, Products, Liability, Real Estate, Securities, Sexual Harassment, Wills, Trusts, Estates, Workers Compensation</p>
+    </div>
+    <div class=c>
+        <h2>Advocate Debasis Mitra</h2>
+        <p>office location : 12/1,Hare Street, Ground Floor, Room No-8 (near High court Calcutta)
+            Kolkata, West Bengal<br>
+            Zip code: 700001 <br>
+            Court of practice: Supreme Court, Calcutta High Court, District Court <br>
+            Contact number : +91-9831834759
+            Whatsapp is also available <br>
+            Email: debasismitra1986@gmail.com
+            Website: www.dmlegal.co.in
+            <h3>Description:</h3>  
+            Debasis Mitra and Associates is one of the most renowned and has experience in the legal domain representing various clients from different court ,forums and Tribunal. We have an extensive network of Lawyers and Counsels for support of our clients throughout India. We are experienced and experts in Consumer Law, Divorce ,Domestic violence and matrimonial Dispute, cheque bounce, Arbitration, D.R.T,L and Dispute and eviction, Power of attorney, Deed registration, defamation, writ, PIL, Trademark, Copyright registration criminal and civil cases With an ambitious and dynamic approach towards legal problems, our strength lies in its personnel who have an array of experience in legal matters.
+            <h3>Area of Practice:</h3>  Adoption, Arbitration Mediation, Banking, Child Custody, Civil Litigation, Consumer Law, Criminal, Divorce/Domestic Relations, Landlord/Tenant, Lemon Law, Military Law, Probate, Real Estate, Wills, Trusts, Estates</p>
+    </div>
+    <div class=c>
+    <h2>Advocate Paridhi F. Rasiwasia</h2>
+    <p>office location : 7B Classic Tower, 56 Gariahat Road, Ballygunge Phari
+        Kolkata, West Bengal<br>
+        Zip code: 700019 <br>
+        Court of practice: Calcutta High Court, District Court<br>
+        Contact number : +91-9903236486
+      <br>
+        Email: paridhirasiwasia@gmail.com
+        <h3>Description:</h3>  
+        I am a corporate/commercial lawyer working independently in Kolkata. I have a Masters in law and finance from the University of Oxford and have worked with the Banking and Finance team of a Tier-1 law firm in Mumbai. I am proficient in drafting security documents, lease/rental agreements, licensing agreements, share purchase agreements and other commercial agreements. I have advisory and transactional experience of working with overseas clients on FDI, restructuring & other business matters.
+        <h3>Area of Practice:</h3>  Bankruptcy-Creditors, Business Litigation, Collection/Creditors, Construction, Consumer Law, Contract, Copyright, Corporation / Partnership, Creditors Rights, Employment, Entertainment, Finance, Franchise Law, General Practice, Intellectual Property, International, Labor-Employers, Landlord/Tenant, Lemon Law, Libel/Slander, Not For Profit, Patent, Trademark, Personal Injury-Plaintiffs, Personal Injury-Defense, Privacy Law, Products, Liability, Real Estate, Securities, Sexual Harassment, Wills, Trusts, Estates, Workers Compensation</p>
+</div>
+<div class=c>
+    <h2>Advocate Raja Tarafdar</h2>
+    <p>office location : High Court office address: 6 Old Post Office Street, Basement Room No.14A,
+        Kolkata, West Bengal<br>
+        Zip code: 700001 <br>
+        Court of practice: Supreme Court, Calcutta High Court, District Court <br>
+        <h3>Description:</h3>  
+        I am a Senior Advocate with Associates, based at the Hon'ble High Court at Calcutta, having 30 years of experience at providing highly specialised and quick legal service at a very reasonable cost. I provide professional legal advise to Domestic, NRI and Foreign clients. I take special care regarding Matrimonial Disputes- Divorce, Annulment of Marriage, Divorce by mutual consent, 498A, Dowry harassment, Talaq, Maintenance, Adoption, Child Custody, Child support collection, Marriage Registration. I am specialist in Flat, Land and other Property Registration at minimum cost. I am proficient in Civil, Criminal and General Practice and Muslim Personal Law. I act as an Attorney for cases filed in the Hon'ble High Courts and District Courts at any part of India and the Hon'ble Supreme Court of India.
+        <h3>Area of Practice:</h3> Civil, Criminal , Muslim Law and General Law Practice, Writ Petitions, Property Disputes, Partition Suits, Will Registration, Probate, Succession Certificate, Wakf, Trusts, Estates, Civil rights, Landlord- Tenant litigations, Society, Firm, Company and NGO Formation and Registration, Franchise, Affiliations, Leave and Lisence Agreement, Intellectual property Law, Copyright, Patent, Trademark, Consumer Law, Food and Drugs, Medical Negligence, Arbitration, Employment, Pension and Public Provident Fund disputes, Debt Recovery, Labour Laws, Workers' Compensation, Business litigation, Sexual Harassment cases, Trade License and other Licenses, Income Tax, VAT, Service Tax and Professional Tax.</p>
+</div>
+<div class=c>
+    <h2>Advocate S Kundu and Associates</h2>
+    <p>office location : 7 A Kira Shankar Roy Road
+        Kolkata, West Bengal<br>
+        Zip code: 700019 <br>
+        Court of practice: Supreme Court, Calcutta High Court, District Court <br>
+        <h3>Description:</h3>  
+        We are a professional law office operating from Calcutta, specialist in Family Law, Divorce Laws and Issues related to maintenance, adoption, Domestic Violence etc, Original Litigation, Appellate Side and High Court Practice. We provide best representation before all District Court in Calcutta, besides the High Court in matters relating Money Recovery, Cheque Dishnour, Consumer Disputes besides General Civil and Criminal litigation , NCLT, Criminal Cases, Bail Matters, Customs, Arbitration.
+        <h3>Area of Practice:</h3>  Banking, Civil Litigation, Consumer Law, Contract, Criminal, Divorce/Domestic Relations, Family Law, Real Estate, Sexual Harassment, Wills, Trusts, Estates</p>
+</div>
+<div class=c>
+    <h2>Advocate Pritha Basu</h2>
+    <p>office location : 313 HB Block, Saltlake, Sector - III,
+        Kolkata, West Bengal<br>
+        Zip code: 700106 <br>
+        Court of practice: Calcutta High Court, District Courts <br>
+        <h3>Description:</h3>  
+        7 years of expertise in legal profession on the areas which include Divorce law, Consumer Law, Banking Law, Service Law, Succession, Probate. I practices in Consumer Forum, High court, DRT, DRAT and State Commission.
+        <h3>Area of Practice:</h3>  Adoption, Appellate Practice, Arbitration, Mediation, Banking, Bankruptcy-Creditors, Bankruptcy-Debtors, Child Custody, Child Support, Collection, Civil Litigation, Civil Rights, Consumer Law, Contract, Copyright, Corporation / Partnership, Divorce/Domestic Relations, Family Law, Finance, Health Care Law, Indian Law, Insurance, Intellectual Property, Labor-Employers, Labor-Workers, Land Use, Landlord/Tenant, Libel/Slander, Patent Trademark, Pension, Profit Sharing, Probate, Real Estate, Securities, Arbitration, Sexual Harassment, Social Security, Wills, Trusts, Estates, Workers Compensation</p>
+</div>
+
+<div class=c>
+    <h2>Lexicon Associate</h2>
+    <p>office location : 115 G.T.Road (North)
+        Howrah, West Bengal<br>
+        Zip code: 711106 <br>
+        Court of practice: Calcutta High Court, District Courts<br>
+        Contact number : +09681108929 <br>
+        Email: vikramojha2007@gmail.com
+        <h3>Description:</h3>  
+        I am independent practicing lawyer since last 14 years in High Court at Calcutta and almost deals with cases in almost in all District Courts of West Bengal.
+        <h3>Area of Practice:</h3>   Business Litigation, Civil Litigation, Consumer Law, Divorce/Domestic Relations, Family Law, Indian Law, Land Use, Landlord/Tenant, Probate, Real Estate, Securities, Arbitration, Wills, Trusts, Estates </p>
+</div>
+<div class=c>
+    <h2>Advocate Arnab Biswas</h2>
+    <p>office location : AC-130/131, Prafulla Kanan East, PO: Prafulla Kanan, PS: Baguihati
+        Kolkata, West Bengal<br>
+        Zip code: 700001 <br>
+        Court of practice: Calcutta High Court, National Company Law Tribunal, Bankshall Court, Alipore Court, Barasat Court <br>
+        Contact number :  +91-9609025966, 9004280971
+        Whatsapp is also available <br>
+        Email: arnabbiswas3@gmail.com
+        <h3>Description:</h3>  
+        I am advocate Arnab Biswas, practicing in Calcutta High Court, NCLT and District court. I have experience in Civil, Constitutional, Writ, Service Matters, Corporate, Criminal Law, Property Matters, Arbitration, Divorce, Domestic violence related matters, Contracts, Agreements, Will, Motor Accident cases, Cheque Bounce cases, Legal Consultation.
+        <h3>Area of Practice:</h3> Adoption, Appellate Practice, Arbitration, Mediation, Banking, Bankruptcy-Creditors, Bankruptcy-Debtors, Business Litigation, Child Custody, Child Support Collection, Civil Litigation, Civil Rights, Collection/Creditors, Construction, Consumer Law, Contract, Copyright, Corporation / Partnership, Criminal Divorce/Domestic Relations Education, Employment, Entertainment, Environmental, Family Law, General Practice, Government, Health Care Law, Indian Law, Insurance, Intellectual Property, Labor-Employers, Labor-Workers, Land Use, Landlord/Tenant, Personal Injury-Plaintiffs, Personal Injury-Defense, Privacy Law, Probate, Real Estate, Securities, Arbitration, Sexual Harassment, Wills, Trusts, Estates, Workers Compensation.</p>
+</div>
+<div class=c>
+    <h2>Advocate Partick Sanyal (Criminal Lawyer)</h2>
+    <p>office location : 22A, Raja Subodh Chandra Mullick Rd, Jadavpur
+        Kolkata, West Bengal<br>
+        Zip code: 700032 <br>
+        Court of practice: Calcutta High Court, Alipore City Civil Court <br>
+        <h3>Description:</h3>  
+        As a Criminal Lawyer my mission is to protect the rights of my clients and give them a voice in the criminal justice system. Pulling from experience as a former public prosecutor I rely on my background of working with many central and state agencies. I am currently part of the team managing a high profile Case. I have the experience, resources and wisdom to secure a favorable result for your case.
+        <h3>Area of Practice:</h3> Adoption, Mediation, Child Custody, Civil Litigation, Consumer Law, Contract, Copyright, Creditors Rights, Criminal, Divorce/Domestic Relations, Education, Employment, Entertainment Family Law, General Practice, Indian Law, Sexual Harassment, Traffic Wills, Trusts, Estates, Workers Compensation</p>
+</div>
+</body>
+</html>

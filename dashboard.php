@@ -49,7 +49,7 @@
 
 
 
-	<h1  style="margin-top: 10px"><b><center>Welcome To The Home of LAW and JUSTICE</center></b></h1>
+	<h1  style="margin-top: 10px"><b><center>Welcome to the home of Women's Law and Justice</center></b></h1>
 	<br>
 	<center><a class="btn btn-dark btn_nav " style="width: 200px;margin-bottom: 20px" href="category.php" role="button">Categories Here</a></center>
 
@@ -59,7 +59,7 @@
     <div class="card">
       <h1>Laws</h1>
       <img src="assets/libra.png" width="100%" height="200"  style="margin-bottom:10px; margin-top: 10px" >
-      <center><a class="btn btn-dark btn_nav " style="width: 200px" href="category.php" role="button">Learn More</a></center>
+      <center><a class="btn btn-dark btn_nav " style="width: 200px" href="laws.php" role="button">Learn More</a></center>
     </div>
   </div>
 
@@ -67,7 +67,7 @@
     <div class="card">
       <h1>Advocates</h1>
       <img src="assets/libra.png" width="100%" height="200"  style="margin-bottom:10px; margin-top: 10px" >
-       <center><a class="btn btn-dark btn_nav " style="width: 200px" href="category.php" role="button">Learn More</a></center>
+       <center><a class="btn btn-dark btn_nav " style="width: 200px" href="advocates.php" role="button">Learn More</a></center>
     </div>
   </div>
 
@@ -75,7 +75,7 @@
     <div class="card">
      <h1>News</h1>
      <img src="assets/libra.png" width="100%" height="200"  style="margin-bottom:10px; margin-top: 10px" >
-      <center><a class="btn btn-dark btn_nav " style="width: 200px" href="category.php" role="button">Learn More</a></center>
+      <center><a class="btn btn-dark btn_nav " style="width: 200px" href="news.php" role="button">Learn More</a></center>
     </div>
   </div>
 
@@ -83,7 +83,7 @@
     <div class="card">
       <h1>About Us</h1>
       <img src="assets/libra.png" width="100%" height="200"  style="margin-bottom:10px; margin-top: 10px" >
-       <center><a class="btn btn-dark btn_nav " style="width: 200px" href="category.php" role="button">Learn More</a></center>
+       <center><a class="btn btn-dark btn_nav " style="width: 200px" href="aboutus.php" role="button">Learn More</a></center>
     </div>
   </div>
 </div>
