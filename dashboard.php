@@ -57,32 +57,28 @@
 <div class="row" style="margin-top:30px;margin-bottom:30px;margin-left:10px;margin-right:10px">
   <div class="column">
     <div class="card">
-      <h1>Laws</h1>
-      <img src="assets/libra.png" width="100%" height="200"  style="margin-bottom:10px; margin-top: 10px" >
+      <img src="assets/laws.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
       <center><a class="btn btn-dark btn_nav " style="width: 200px" href="laws.php" role="button">Learn More</a></center>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <h1>Advocates</h1>
-      <img src="assets/libra.png" width="100%" height="200"  style="margin-bottom:10px; margin-top: 10px" >
+      <img src="assets/advocates.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
        <center><a class="btn btn-dark btn_nav " style="width: 200px" href="advocates.php" role="button">Learn More</a></center>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-     <h1>News</h1>
-     <img src="assets/libra.png" width="100%" height="200"  style="margin-bottom:10px; margin-top: 10px" >
+     <img src="assets/news.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
       <center><a class="btn btn-dark btn_nav " style="width: 200px" href="news.php" role="button">Learn More</a></center>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <h1>About Us</h1>
-      <img src="assets/libra.png" width="100%" height="200"  style="margin-bottom:10px; margin-top: 10px" >
+      <img src="assets/aboutus.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
        <center><a class="btn btn-dark btn_nav " style="width: 200px" href="aboutus.php" role="button">Learn More</a></center>
     </div>
   </div>
