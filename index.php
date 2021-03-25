@@ -18,7 +18,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@500&display=swap" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.gstatic.com">
 </head>
-<body style="background-color: #fef773">
+<body>
 	
 	<?php include "header.php";?>
 	<div class="container;" width="100%">

@@ -187,7 +187,7 @@ body {
   
   <div class="column">
     <div class="card">
-      <h3>CRIMES IDENTIFIED UNDER(SLL)</h3>
+      <h3>Special Laws</h3>
       <a href="c8.php"><p><img src ="assets/CIUSL.jpg" height="250" width="250"></p></a>
       
     </div>

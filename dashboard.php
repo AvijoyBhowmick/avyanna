@@ -25,13 +25,13 @@
 <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active" data-interval="10000">
-      <img src="assets/rape.jpg" width="100%" height="350" class="d-block w-100" alt="..."  >
+      <img src="assets/b1.jpg" width="100%" height="350" class="d-block w-100" alt="..."  >
     </div>
     <div class="carousel-item" data-interval="2000">
-      <img src="assets/rape.jpg" width="100%" height="350" class="d-block w-100" alt="...">
+      <img src="assets/b2.jpg" width="100%" height="350" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="assets/rape.jpg" width="100%" height="350" class="d-block w-100" alt="...">
+      <img src="assets/b3.jpg" width="100%" height="350" class="d-block w-100" alt="...">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleInterval" role="button" data-slide="prev">
