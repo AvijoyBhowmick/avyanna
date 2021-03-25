@@ -30,8 +30,6 @@ Any man who commits the offence specified in clause (iv) shall be punished with 
 
 </tr>
 </table>
-
-
 </body>
 </html>
 
