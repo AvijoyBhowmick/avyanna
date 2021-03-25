@@ -27,7 +27,6 @@
 Any man who commits the offence specified in clause (iv) shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.</font>
 
 </fieldset>
-
 </tr>
 </table>
 </body>
