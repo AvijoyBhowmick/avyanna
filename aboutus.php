@@ -62,8 +62,8 @@ body {
 <td style="font-size:30px;"><fieldset style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color:#000;"><font color="#fef773">Our webpage is made for Women Society.Their problem's one-step solution is our webpage 'AVYANNA'.Our well decorated webpage will help them to understand the laws regarding Women Society and they can take any legal step.We are trying to help the Women Society to build a greater INDIA.</font></fieldset></td> 
 <tr>
 </table><br><br>
-<center><fieldset style="font-size:50px; font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; "><legend style="width:50px;">"&nbsp;"</legend>"<font color="#0000FF">DON'T &nbsp;TREAT&nbsp; WOMEN&nbsp; AS&nbsp; AN &nbsp;OBJECT</font><br>
-&nbsp;&nbsp;<font color="#0000FF">TREAT &nbsp;THEM &nbsp;AS &nbsp; A  &nbsp; CO-CREATOR.</font>"</fieldset></center><br><br>
+<center><fieldset style="font-size:50px; font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; "><legend style="width:50px;">"&nbsp;"</legend>"<font color="#000000">DON'T &nbsp;TREAT&nbsp; WOMEN&nbsp; AS&nbsp; AN &nbsp;OBJECT</font><br>
+&nbsp;&nbsp;<font color="#000000">TREAT &nbsp;THEM &nbsp;AS &nbsp; A  &nbsp; CO-CREATOR.</font>"</fieldset></center><br><br>
 
 <h1 align="center" style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:75px;">OUR TEAM</h1>
 
