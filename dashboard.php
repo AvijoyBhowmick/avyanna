@@ -97,7 +97,7 @@
           </a>
 				</div>
 				<div class="col-6">
-          <a href="safety_tips.php">  
+          <a href="safetytips.php">  
 					  <div class="card">
               <img src="assets/safety_tips.png" alt="">
             </div>
