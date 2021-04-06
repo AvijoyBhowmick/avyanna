@@ -17,33 +17,16 @@
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@500&display=swap" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.gstatic.com">
+
+<link rel="stylesheet" href="CSS/Tubel.css">
 </head>
 <body>
 	
-
-
-
-
-	<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Cover Page</title>
-<link rel="stylesheet" href="Tubel.css">
-</head>
-
-<body>
 <div class="god">
 	<h2>AVYANNA</h2><br><br><br><br><br><br>
     <p>"A Step Towards Women Rights"</p><br><br><br><br>
     <a href="#">GET STARTED</a>
 </div>
-</body>
-</html>
-
-
-
-
 
 </body>
 </html>
