@@ -18,14 +18,14 @@
 <link href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@500&display=swap" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.gstatic.com">
 
-<link rel="stylesheet" href="CSS/Tubel.css">
+<link rel="stylesheet" href="CSS/Cover.css">
 </head>
 <body>
 	
 <div class="god">
 	<h2>AVYANNA</h2><br><br><br><br><br><br>
     <p>"A Step Towards Women Rights"</p><br><br><br><br>
-    <a href="#">GET STARTED</a>
+    <a href="dashboard.php">GET STARTED</a>
 </div>
 
 </body>
