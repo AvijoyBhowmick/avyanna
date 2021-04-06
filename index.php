@@ -20,27 +20,31 @@
 </head>
 <body>
 	
-	<?php include "header.php";?>
-	<div class="container;" width="100%">
-		<div class="row" style="margin-left: 60px">
-			<div class="col-10">
-				<div class="row">	
-					<div class="col-6" style="margin-top:280px; margin-bottom:20px">
-						<h1 style="font-size: 80px; font-family: 'Arvo', serif;"><b>AVYANNA</b></h1>
-						<h1 style="font-size: 40px; font-family: 'Zilla Slab', serif;"> <b>A website for strong independent women to fight for their right.</b> </h1>
-						<h5>Search, Learn and Get Justice</h5>
-						<br>
-						<a class="btn btn-dark btn_nav " style="width: 200px" href="dashboard.php" role="button">Get Started</a>
-						<br><br>
-  						<h6 >It's free and always will be</h6>
-					</div>
-					<div class="col-3" style="margin-top:170px; margin-bottom:20px ;margin-left:250px">
-						<img src="assets/newlogoav.png" width="500" height="500">
-					</div>
-				</div>	
-			</div>
-		</div>	
-	</div>
+
+
+
+
+	<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Cover Page</title>
+<link rel="stylesheet" href="Tubel.css">
+</head>
+
+<body>
+<div class="god">
+	<h2>AVYANNA</h2><br><br><br><br><br><br>
+    <p>"A Step Towards Women Rights"</p><br><br><br><br>
+    <a href="#">GET STARTED</a>
+</div>
+</body>
+</html>
+
+
+
+
+
 </body>
 </html>
 
