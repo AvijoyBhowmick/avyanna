@@ -1,0 +1,369 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins',sans-serif;
+}
+body
+{
+	/*display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;*/ 
+	overflow: hidden;
+}
+section
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background: linear-gradient(to bottom, #f1f4f9,#dff1ff);
+}
+section .color
+{
+	position: absolute;
+	filter: blur(150px);
+}
+section .color:nth-child(1)
+{
+	top: 100px;
+	width: 1000px;
+	height: 600px;
+	background: #ff359b;
+}
+
+section .color:nth-child(2)
+{
+	bottom: 50px;
+	
+	width: 600px;
+	height: 500px;
+	background:  #00d2ff;
+}
+
+
+.box
+{
+	position: relative;
+}
+.box .square
+{
+	position: absolute;
+	box-shadow: 0px 2px 45px rgba(0,0,0,0.1);
+	border-right: 1px solid rgba(225,225,225,0.2);
+	border-bottom: 1px solid rgba(225,225,225,0.2);
+	backdrop-filter: blur(5px);
+	background: rgba(225,225,225,0.1);
+	border: 1px solid rgba(225,225,225,0.5);
+	border-radius: 10px;
+	animation: animate 10s linear infinite;
+	animation-delay: calc(-1s * var(--i));
+}
+@keyframes animate
+{
+	0%,100%
+	{
+		transform: translateY(-10px);
+	}
+	50%
+	{
+		transform: translateY(40px);
+	}
+}
+.box .square:nth-child(1)
+{
+	top: 0px;
+	right: -20px;
+	width: 150px;
+	height: 100px;
+}
+.box .square:nth-child(2)
+{
+	top: 150px;
+	left: -20px;
+	width: 120px;
+	height: 200px;
+	z-index: 2;
+}
+.box .square:nth-child(3)
+{
+	bottom: 50px;
+	right: -10px;
+	width: 150px;
+	height: 80px;
+	z-index: 2;
+}
+.box .square:nth-child(4)
+{
+	bottom: 50px;
+	left: -20px;
+	width: 250px;
+	height: 50px;
+	z-index: 2;
+}
+.box1
+{
+	position: relative;
+}
+.box1 .square1
+{
+	position: absolute;
+	box-shadow: 0px 2px 45px rgba(0,0,0,0.1);
+	border-right: 1px solid rgba(225,225,225,0.2);
+	border-bottom: 1px solid rgba(225,225,225,0.2);
+	backdrop-filter: blur(5px);
+	background: rgba(225,225,225,0.1);
+	border: 1px solid rgba(225,225,225,0.5);
+	border-radius: 10px;
+	animation: animate1 10s linear infinite;
+	animation-delay: calc(-1s * var(--i));
+}
+@keyframes animate1
+{
+	0%,100%
+	{
+		transform: translateX(-10px);
+	}
+	50%
+	{
+		transform: translateX(40px);
+	}
+}
+.box1 .square1
+{
+	
+	top: 0x;
+	
+	width: 150px;
+	height: 100px;
+}
+
+/*body::before
+{
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(#0FF,#C0F);
+	clip-path: circle(30% at right 50%);
+}
+body::after
+{
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(#FF0,#F00);
+	clip-path: circle(15% at 0% 75%);
+}*/
+.container
+{
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	/*max-width: 1200px;
+	flex-wrap: wrap;*/
+	z-index: 1;
+}
+.container .card
+{
+	position: relative;
+	width: 1200px;
+	height: 570px;
+	margin: 30px;
+	box-shadow: 0px 2px 45px rgba(0,0,0,0.1);
+	border-radius: 10px; 
+	background: rgba(225,225,225,0.1);
+	overflow: hidden;
+	display: flex;
+	/*justify-content: center;
+	align-items: center;*/
+	border: 1px solid rgba(225,225,225,0.5);
+	border-right: 1px solid rgba(225,225,225,0.2);
+	border-bottom: 1px solid rgba(225,225,225,0.2);
+	backdrop-filter: blur(5px);
+	
+}
+.container .card .imgBx
+{
+	position: relative;
+	margin-top: 30px;
+	margin-right:0;
+	
+	opacity: 0.1;
+	
+		
+}
+.container .card:hover .imgBx
+{
+	
+	
+	opacity: 1;
+	transition: 0.9s;
+}
+
+.container .card .imgBx img
+{
+	position: relative;
+	
+	
+}
+/*.container .card:after
+{
+	content: 'Advocate';
+	position: absolute;
+	/*top: 30%;
+	left: -20%;
+	font-size: 8em;
+	font-weight: 800;
+	font-style: italic;
+	color: rgba(225,225,225,0.10);
+}*/
+.container .card .content
+{
+	padding: 20px;
+	/*text-align: center;*/
+	transition: 0.5s;
+	margin: 0px 0;
+	margin-left:50px;
+	
+}
+
+.container .card .content h3
+{
+	position: relative;
+	/*top: -80px;
+	right: 30px;*/
+	font-size: 4em;
+	/*color: rgba(225,225,225,0.05); */
+	color:rgba(225,225,225,0.1);
+	pointer-events: none;
+	margin: 0px 0;
+	text-align: center;
+	
+	
+}
+.container .card:hover .content h3
+{
+	
+	color:rgba(225,225,225,1);
+	
+	
+	
+}
+
+.container .card .content span
+{
+	position: relative;
+	font-size: 1.2em;
+	color: #fff;
+	z-index: 1;
+	margin-top: 30px;
+	transition: 0.9s;
+	transform: translateX(100px);
+	opacity: 0;
+	
+}
+.container .card:hover .content span
+{
+	transform: translateX(0px);
+	opacity: 1;
+}
+
+.container .card .content p
+{
+	font-size: 1.6em;
+	color: #fff;
+	/*font-weight: 300;*/
+	letter-spacing: 2px;
+	text-align: center;
+	transition: 0.9s;
+	transform: translateY(100px);
+	opacity: 0;
+}
+.container .card:hover .content p
+{
+	transform: translateY(0px);
+	opacity: 1;
+}
+.container .card:hover  .content p .fa-quote-left
+{
+	color:rgba(225,225,225,1);
+}
+.container .card:hover  .content p .fa-quote-right
+{
+	color:rgba(225,225,225,1);
+}
+
+.container .card:hover  .content p .fa-envelope
+{
+	color: #FC0;
+}
+.container .card:hover  .content p .fa-phone-square
+{
+	color: #0F0;
+}
+.container .card .content a
+{
+	position: absolute;
+	display: inline-block;
+	padding: 5px 5px; 
+	background: linear-gradient(to right,#a517ba,#5f1782);
+	margin-top: 15px;
+	margin-left: 255px;
+	
+	border-radius: 20px;
+	color:rgba(225,225,225,0.5);
+	text-decoration: none;
+	font-weight: 400;
+	
+	font-size: 30px;
+	/*text-align: center; */
+	transition: 0.5s;
+	transform: translateX(-100px);
+	opacity: 0;
+	box-shadow: 0px 2px 45px rgba(0,0,0,0.1);
+	
+	backdrop-filter: blur(5px);
+	background: rgba(225,225,225,0.1);
+	border: 1px solid rgba(225,225,225,0.5);
+	border-radius: 10px;
+	letter-spacing: 2px;
+		
+}
+.container .card:hover .content a
+{
+	transform: translateY(0px);
+	opacity: 1;
+}
+
+
+
+.container .card .content a:hover
+{
+	box-shadow: 0px 2px 45px rgba(0,0,0,0.1);
+	border-right: 1px solid rgba(225,225,225,0.2);
+	border-bottom: 1px solid rgba(225,225,225,0.2);
+	color: #fff;
+}
+.container .card hr
+{
+	transition: 0.5s;
+	transform: translateY(-100px);
+	opacity: 0;
+}
+.container .card:hover hr
+{
+	transform: translateY(0px);
+	opacity: 1;
+}
