@@ -17,7 +17,7 @@
 	<div class="container">
     	<div class="card">
         	<div class="ImgBx">
-            	<img src="L3.jpg">
+            	<img src="assets/L3.jpg">
             </div>
             <div class="content">
             	<div class="contentBx">
@@ -33,7 +33,7 @@
         
         <div class="card">
         	<div class="ImgBx">
-            	<img src="Adv8.jpg">
+            	<img src="assets/Adv8.jpg">
             </div>
             <div class="content">
             	<div class="contentBx">
@@ -49,7 +49,7 @@
         
          <div class="card">
         	<div class="ImgBx">
-            	<img src="Adv8.jpg">
+            	<img src="assets/Adv8.jpg">
             </div>
             <div class="content">
             	<div class="contentBx">
@@ -65,7 +65,7 @@
         
          <div class="card">
         	<div class="ImgBx">
-            	<img src="L3.jpg">
+            	<img src="assets/L3.jpg">
             </div>
             <div class="content">
             	<div class="contentBx">
@@ -81,7 +81,7 @@
         
          <div class="card">
         	<div class="ImgBx">
-            	<img src="Adv8.jpg">
+            	<img src="assets/Adv8.jpg">
             </div>
             <div class="content">
             	<div class="contentBx">
@@ -97,10 +97,10 @@
         
          <div class="card">
         	<div class="ImgBx">
-            	<img src="L3.jpg">
+            	<img src="assets/L3.jpg">
             </div>
             <div class="content">
-            	<div class="contentBx">
+            	<div class="assets/contentBx">
                 	<h3>Pritha Basu<br><span>Advocate</span></h3>
                 </div>
                 <ul class="sci">
@@ -113,7 +113,7 @@
         
          <div class="card">
         	<div class="ImgBx">
-            	<img src="Adv8.jpg">
+            	<img src="assets/Adv8.jpg">
             </div>
             <div class="content">
             	<div class="contentBx">
@@ -129,7 +129,7 @@
         
          <div class="card">
         	<div class="ImgBx">
-            	<img src="Adv8.jpg">
+            	<img src="assets/Adv8.jpg">
             </div>
             <div class="content">
             	<div class="contentBx">
@@ -146,7 +146,7 @@
         
         <div class="card">
         	<div class="ImgBx">
-            	<img src="L3.jpg">
+            	<img src="assets/L3.jpg">
             </div>
             <div class="content">
             	<div class="contentBx">
