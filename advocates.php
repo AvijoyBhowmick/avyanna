@@ -100,7 +100,7 @@
             	<img src="assets/L3.jpg">
             </div>
             <div class="content">
-            	<div class="assets/contentBx">
+            	<div class="contentBx">
                 	<h3>Pritha Basu<br><span>Advocate</span></h3>
                 </div>
                 <ul class="sci">
