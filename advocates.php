@@ -24,7 +24,7 @@
                 	<h3>Tapan Choudhury<br><span>Advocate</span></h3>
                 </div>
                 <ul class="sci">
-                	<li style="--i:1;"><a href="advocate/A1.html"><i class="fa fa-address-card" aria-hidden="true"></i></a>
+                	<li style="--i:1;"><a href="A1.html"><i class="fa fa-address-card" aria-hidden="true"></i></a>
                   <!--  <li style="--i:2;"><a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
                     <li style="--i:3;"><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a> -->
                 </ul>
