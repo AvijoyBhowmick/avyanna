@@ -19,6 +19,8 @@ body
 .god 
 {
 	position: absolute;
+	
+	
 	color: #0e3742; 
 	/*text-transformation: uppercase; */
 	width: 100%;
@@ -44,8 +46,17 @@ body
 	line-height: 0.70em;
 	outline: none;
 	animation: animate 5s linear infinite;
-	font-style: italic; 
+	/*font-style: italic;  */
 	}
+p
+{
+	letter-spacing: 10px;
+	font-size: 4em;
+	-webkit-box-reflect: below 1px linear-gradient(transparent,#0008);
+	line-height: 0.70em;
+	outline: none;
+	animation: animate 5s linear infinite;
+}
 a
 {
 	position: relative;
