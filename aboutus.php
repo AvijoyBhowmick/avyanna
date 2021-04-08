@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>About Us</title>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-<link rel="stylesheet" href="AUS.css">
+<link rel="stylesheet" href="CSS/AUS.css">
 </head>
 
 <body>
@@ -24,7 +24,7 @@
 	<div class="card">
     	
     	<div class="imgBx">
-        	<img src="newfinallogo.png"></img>
+        	<img src="assets/newfinallogo.png"></img>
         </div>
     	<div class="content">
         <h3>About Us</h3>
