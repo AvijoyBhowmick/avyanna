@@ -127,7 +127,7 @@
 </section>
 <!----OLD CODE---->
 
-
+<?php include "footer.php"; ?>
 
 </body>
 </html>
