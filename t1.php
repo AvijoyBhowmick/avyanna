@@ -98,12 +98,30 @@
 
 <section id="banner"style="margin-top:170px;">
 <div class="container">
-  <div class="row">
-    <div class="col-md-6">
-      <p class="promo-title">Welcome to Avyanna</p>
-      <p>Home of Women Empowerment</p>
+  <div class="row" style="margin-bottom:30px;margin-bottom:30px;margin-left:10px;margin-right:10px">
+  <div class="column">
+    <div class="card">
+     <img src="assets/news.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
+      <center><a class="btn btn-dark btn_nav " style="width: 200px" href="news.php" role="button">Learn More</a></center>
     </div>
   </div>
+</div>
+</div>
+</section>
+
+
+
+<section id="newbanner"style="margin-top:170px;">
+<div class="container">
+<div class="row" align="right">
+<div class="column">
+    <div class="card">
+      <img src="assets/aboutus.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
+       <center><a class="btn btn-dark btn_nav " style="width: 200px" href="aboutus.php" role="button">Learn More</a></center>
+    </div>
+  </div>
+</div>
+</div>
 </div>
 </section>
 <!----OLD CODE---->
