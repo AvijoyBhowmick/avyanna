@@ -10,7 +10,7 @@
 <div class="god">
 	<h2>AVYANNA</h2><br><br><br><br><br><br>
     <p>"A Step Towards Women Rights"</p><br><br><br><br>
-    <a href="#">GET STARTED</a>
+    <a href="dashboard.php">GET STARTED</a>
 </div>
 </body>
 </html>
