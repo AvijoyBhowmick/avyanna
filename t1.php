@@ -78,8 +78,8 @@
         </div>
       </div>
       <div class="column col-6">
-
-
+        <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum tenetur consectetur sint laboriosam quidem a,
+          doloremque excepturi esse aliquam natus debitis exercitationem alias iusto optio vel nostrum? Odit, deleniti sint.</h3>
       </div>
     </div>
   </div>
@@ -90,7 +90,8 @@
   <div class="container">
     <div class="row" >
       <div class="column col-6">
-        
+      <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum tenetur consectetur sint laboriosam quidem a,
+          doloremque excepturi esse aliquam natus debitis exercitationem alias iusto optio vel nostrum? Odit, deleniti sint.</h3>
       </div>
       <div class="column col-6">
         <div class="card" style="margin-bottom:60px">
@@ -113,7 +114,8 @@
         </div>
       </div>
       <div class="column col-6">
-
+        <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum tenetur consectetur sint laboriosam quidem a,
+          doloremque excepturi esse aliquam natus debitis exercitationem alias iusto optio vel nostrum? Odit, deleniti sint.</h3>
 
       </div>  
     </div>
@@ -126,7 +128,8 @@
   <div class="container">
     <div class="row"">
       <div class="column col-6">
-        <center><h3>Get to know about our team</h3></center>
+        <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum tenetur consectetur sint laboriosam quidem a,
+          doloremque excepturi esse aliquam natus debitis exercitationem alias iusto optio vel nostrum? Odit, deleniti sint.</h3>
       </div>
       <div class="column col-6">
         <div class="card" style="margin-bottom:60px" >
