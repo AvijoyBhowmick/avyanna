@@ -11,6 +11,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
 <link rel="stylesheet" href="CSS/t1.css">
+<script type="text/javascript" src="JS/scroll-on-scroll.js"></script>
 </head>
 <body>
 
@@ -51,7 +52,7 @@
     </div>
   </div>
 </div>
-<img src="assets/wave.png" alt="" class="bottom-img">
+<img src="assets/wave.png" alt="" class="bottom-img inline-photo show-on-scroll">
 </section>
 <br>
 <section id="newbanner" style="margin-top:170px;">
@@ -71,16 +72,18 @@
 <section id="banner"style="margin-top:170px;">
   <div class="container">
     <div class="row" >
-      <div class="column col-6">
+      <div class="column col-6 show-on-scroll">
         <div class="card" style="margin-bottom:60px">
           <img src="assets/laws.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
           <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="laws.php" role="button">Learn More</a></center>
         </div>
       </div>
       <div class="column col-6">
-        <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum tenetur consectetur sint laboriosam quidem a,
+        <header class="header show-on-scroll">
+        <h3 class="heading">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum tenetur consectetur sint laboriosam quidem a,
           doloremque excepturi esse aliquam natus debitis exercitationem alias iusto optio vel nostrum? Odit, deleniti sint.</h3>
       </div>
+        </header>
     </div>
   </div>
 </section>
