@@ -69,16 +69,20 @@
 <!------Cards Section (Laws,advocates,news,aboutus)------->
 
 <section id="banner"style="margin-top:170px;">
-<div class="container">
-  <div class="row" >
-   <div class="column">
-    <div class="card" style="margin-bottom:60px">
-      <img src="assets/laws.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
-      <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="laws.php" role="button">Learn More</a></center>
+  <div class="container">
+    <div class="row" >
+      <div class="column col-6">
+        <div class="card" style="margin-bottom:60px">
+          <img src="assets/laws.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
+          <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="laws.php" role="button">Learn More</a></center>
+        </div>
+      </div>
+      <div class="column col-6">
+
+
+      </div>
     </div>
   </div>
-</div>
-</div>
 </section>
 
 
@@ -100,32 +104,38 @@
 
 
 <section id="banner"style="margin-top:170px;">
-<div class="container">
-  <div class="row" style="margin-bottom:30px;margin-bottom:30px;margin-left:10px;margin-right:10px">
-  <div class="column">
-    <div class="card" style="margin-bottom:60px">
-     <img src="assets/news.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
-      <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="news.php" role="button">Learn More</a></center>
+  <div class="container">
+    <div class="row" style="margin-bottom:30px;margin-bottom:30px;margin-left:10px;margin-right:10px">
+      <div class="column col-6">
+        <div class="card" style="margin-bottom:60px">
+          <img src="assets/news.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
+          <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="news.php" role="button">Learn More</a></center>
+        </div>
+      </div>
+      <div class="column col-6">
+
+
+      </div>  
     </div>
   </div>
-</div>
-</div>
 </section>
 
 
 
 <section id="newbanner"style="margin-top:170px;">
-<div class="container">
-<div class="row" align="right">
-<div class="column">
-    <div class="card float-right" style="margin-bottom:60px" >
-      <img src="assets/aboutus.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
-       <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="aboutus.php" role="button">Learn More</a></center>
+  <div class="container">
+    <div class="row"">
+      <div class="column col-6">
+        <center><h3>Get to know about our team</h3></center>
+      </div>
+      <div class="column col-6">
+        <div class="card" style="margin-bottom:60px" >
+          <img src="assets/aboutus.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
+          <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="aboutus.php" role="button">Learn More</a></center>
+        </div>
+      </div>
     </div>
   </div>
-</div>
-</div>
-</div>
 </section>
 
 
