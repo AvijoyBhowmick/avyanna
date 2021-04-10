@@ -76,7 +76,7 @@
       <div class="column col-6">
         <div class="card" style="margin-bottom:60px">
           <img src="assets/laws.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
-          <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="laws.php" role="button">Learn More</a></center>
+          <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="Category.html" role="button">Learn More</a></center>
         </div>
       </div>
       <div class="column col-6">
