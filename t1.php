@@ -12,6 +12,7 @@
 
 <link rel="stylesheet" href="CSS/t1.css">
 <script type="text/javascript" src="JS/scroll-on-scroll.js"></script>
+<link rel="stylesheet" href="CSS/scroll.css">
 </head>
 <body>
 
@@ -52,7 +53,7 @@
     </div>
   </div>
 </div>
-<img src="assets/wave.png" alt="" class="bottom-img inline-photo show-on-scroll">
+<img src="assets/wave.png" alt="" class="bottom-img ">
 </section>
 <br>
 <section id="newbanner" style="margin-top:170px;">
@@ -74,7 +75,7 @@
     <div class="row" >
       <div class="column col-6 show-on-scroll">
         <div class="card" style="margin-bottom:60px">
-          <img src="assets/laws.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
+          <img src="assets/laws.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px"class="inline-photo show-on-scroll" >
           <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="laws.php" role="button">Learn More</a></center>
         </div>
       </div>
