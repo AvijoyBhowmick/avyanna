@@ -21,7 +21,7 @@
 <section id="nav-bar ">
     <nav class="navbar navbar-expand-lg navbar-light ">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">Navbar</a>
+        <a class="navbar-brand text-light font-weight-bold" href="home.php">Avyanna</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -59,9 +59,9 @@
 <section id="newbanner" style="margin-top:170px;">
 <div class="container">
   <div class="row">
-    <div class="col-md-6">
-      <p class="promo-title">Welcome to Avyanna</p>
-      <p>Home of Women Empowerment</p>
+    <div class="col-md-12">
+      <p class="promo-title">Hello there, good person. We’re Avyanna. A legal and
+safety agency that specialises in Women Empowerment,We are a one stop guide for their rights, laws, legal advices and safety tips </p>
     </div>
   </div>
 </div>
