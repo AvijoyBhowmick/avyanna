@@ -7,6 +7,7 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 <link rel="stylesheet" href="CSS/Torture.css">
 <body>
+  <div id="progressbar"></div>
 <div class="toggle"></div>
 
 <div class="container">
@@ -46,6 +47,16 @@
 	const body = document.querySelector('body');
 	document.querySelector('.toggle').onclick = function(){
 		body.classList.toggle('light')}
+</script>
+<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+<script type="text/javascript">
+    $(window).scroll(function(){
+        var scroll = $(window).scrollTop(),
+        dh = $(document).height(),
+        wh = $(window).height();
+        scrollPercent = (scroll/ (dh-wh)) * 100;
+        $('#progressbar').css('height', scrollPercent + '%');
+    })
 </script>
 </body>
 </html>
