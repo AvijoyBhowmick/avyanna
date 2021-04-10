@@ -16,6 +16,8 @@
 </head>
 <body>
 
+<!-----Navbar section------->
+
 <section id="nav-bar ">
     <nav class="navbar navbar-expand-lg navbar-light ">
       <div class="container-fluid">
@@ -26,13 +28,13 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="#">Home</a>
+            <a class="nav-link" aria-current="page" href="home.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Features</a>
+            <a class="nav-link" href="Category.html">Category</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Pricing</a>
+            <a class="nav-link" href="aboutus.php">About Us</a>
           </li>
         </ul>
       </div>
