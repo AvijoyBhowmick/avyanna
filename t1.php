@@ -142,6 +142,21 @@
   </div>
 </section>
 
+<div class="container" width="100%" style="margin-top:30px;margin-bottom:30px">
+	<div class="row">
+		<div class="col-12" style="margin-left:30px;">
+			<div class="row">
+				<div class="col-12" style="margin-left:-15px;margin-right:15px">
+        <h1><center>Our Team</center></h1>
+        <img src="assets/team.png" width="100%" height="350"  style="margin-bottom:10px; margin-top: 10px" >
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
 <!--Safety Tips and Recent Cases--->
 
 <section id="banner"style="margin-top:170px;">
@@ -168,6 +183,9 @@
 	  </div>
   </div>
 </section>
+
+
+
 
 <!----Footer Section---->
 
