@@ -51,7 +51,7 @@
 
 	<h1  style="margin-top: 10px"><b><center>Welcome to the home of Women's Law and Justice</center></b></h1>
 	<br>
-	<center><a class="btn btn-dark btn_nav " style="width: 200px;margin-bottom: 20px" href="category.php" role="button">Categories Here</a></center>
+	<center><a class="btn btn-dark btn_nav " style="width: 200px;margin-bottom: 20px" href="Category.html" role="button">Categories Here</a></center>
 
 
 <div class="row" style="margin-top:30px;margin-bottom:30px;margin-left:10px;margin-right:10px">
