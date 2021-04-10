@@ -40,7 +40,7 @@ body
 {
 	position: relative;
 	width: 1200px;
-	height: 3697px;
+	height: 880px;
 	/*box-shadow: inset 5px 5px 5px rgba(0,0,0,0.05),
 	            inset -5px 5px 5px rgba(225,225,225,0.5),
 	             5px 5px 5px rgba(0,0,0,0.05),
@@ -169,7 +169,7 @@ body
 }
 
 
-.container .card:hover .box .content span .fa-exclamation-triangle
+.container .card:hover .box .content p .fa-gavel
 {
 	color: #ffa500;
 }
@@ -185,18 +185,14 @@ body
 {
 	color: #F96;
 }
-.container .card:hover .box .content span .fa-info-circle
+/*.container .card:hover .box .content p .fa-pencil-square
 {
-	color: #CFC;
-}
+	color: #FF0;
+} */
 
 .container .card:hover .box .content span .fa-tags
 {
 	color: #C96;
-}
-.container .card:hover .box .content p .fa-cubes
-{
-	color: #CC3;
 }
 .container .card:hover .box .content h3 .fa-balance-scale
 {
@@ -315,17 +311,4 @@ body.light .container .card:hover .box .content h1
 {
 	color: rgba(0,0,0,0.10);
 
-}
-::-webkit-scrollbar
-{
-	width: 0;
-}
-#progressbar
-{
-	position: fixed;
-	top: 0;
-	right: 0;
-	width: 15px;
-	border-radius: 10px;
-	background: linear-gradient(to top, #fcb045, #fd1d1d, #833ab4);
 }
