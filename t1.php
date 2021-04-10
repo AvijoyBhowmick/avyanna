@@ -73,18 +73,16 @@
 <section id="banner"style="margin-top:170px;">
   <div class="container">
     <div class="row" >
-      <div class="column col-6 show-on-scroll">
+      <div class="column col-6">
         <div class="card" style="margin-bottom:60px">
-          <img src="assets/laws.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px"class="inline-photo show-on-scroll" >
+          <img src="assets/laws.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
           <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="laws.php" role="button">Learn More</a></center>
         </div>
       </div>
       <div class="column col-6">
-        <header class="header show-on-scroll">
-        <h3 class="heading">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum tenetur consectetur sint laboriosam quidem a,
+      <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum tenetur consectetur sint laboriosam quidem a,
           doloremque excepturi esse aliquam natus debitis exercitationem alias iusto optio vel nostrum? Odit, deleniti sint.</h3>
       </div>
-        </header>
     </div>
   </div>
 </section>
@@ -120,7 +118,6 @@
       <div class="column col-6">
         <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum tenetur consectetur sint laboriosam quidem a,
           doloremque excepturi esse aliquam natus debitis exercitationem alias iusto optio vel nostrum? Odit, deleniti sint.</h3>
-
       </div>  
     </div>
   </div>
@@ -145,7 +142,32 @@
   </div>
 </section>
 
+<!--Safety Tips and Recent Cases--->
 
+<section id="banner"style="margin-top:170px;">
+  <div class="container" width="100%" style="margin-top:30px;margin-bottom:30px">
+	  <div class="row">
+		  <div class="col-12">
+			  <div class="row">
+				  <div class="col-6">
+            <a href="recent_cases.php">
+					    <div class="card" style="margin-bottom:60px">
+                <img src="assets/recent_cases.png" alt="">  
+              </div>
+            </a>
+				  </div>
+				  <div class="col-6">
+            <a href="safetytips.php">  
+					    <div class="card" style="margin-bottom:60px">
+                <img src="assets/safety_tips.png" alt="">
+              </div>
+            </a>
+				  </div>
+			  </div>
+		  </div>
+	  </div>
+  </div>
+</section>
 
 <!----Footer Section---->
 
