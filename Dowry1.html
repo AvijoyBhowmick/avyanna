@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Dowry</title>
+</head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+<link rel="stylesheet" href="CSS/Dowry.css">
+<body>
+  <div id="progressbar"></div>
+  <div id="scrollPath"></div>
+<div class="toggle"></div>
+
+<div class="container">
+	<div class="card">
+    	<div class="box">
+        	<div class="content">
+            <h1>03</h1>
+         	<h2>DOWRY<h2>
+           <h3><i class="fa fa-balance-scale" aria-hidden="true"></i>&nbsp;&nbsp;As per Constitution&nbsp;&nbsp;<i class="fa fa-balance-scale" aria-hidden="true"></i></h3><hr size="5px" color="#FF9900" align="left" width="70%"><br>
+            <p><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;&nbsp;<b><u>As per Section 304 B</u></b> <br><b> [<u>Dowry death</u>] :</b></p> <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where the death of a woman is caused by any burns or bodily injury or occurs otherwise than under normal circumstances within seven years of her marriage and it is shown that soon before her death she was subjected to cruelty or har­assment by her husband or any relative of her husband for, or in connection with, any demand for dowry, such death shall be called "<u>dowry death</u>", and such husband or relative shall be deemed to have caused her death.</span><br><br>
+            
+            <p><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp;&nbsp;<b><u>As per section 302</u> : </b> <br><b> [<u>Talks about punishment for murder</u>] :</b></p> <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It means Whoever commits murder shall be punished with death, or [imprisonment for life] and shall also be liable to fine.</span><br><br><hr size="5px" color="#FF9900" style="margin-left:30%"><br><br>
+            
+            
+            
+            
+            
+             
+              <h3><i class="fa fa-bookmark" aria-hidden="true"></i>&nbsp;&nbsp;Explanation&nbsp;&nbsp;<i class="fa fa-bookmark" aria-hidden="true"></i></h3><hr size="5px" color="#FF9900" align="left" width="70%"><br>
+              
+               <span><i class="fa fa-tags" aria-hidden="true"></i>&nbsp;&nbsp;For the purpose of this subsection, "dowry" shall have the same meaning as in section 2 of the Dowry Prohibition Act, 1961 (28 of 1961).Whoever commits dowry death shall be punished with imprison­ment for a term which shall not be less than seven years but which may extend to imprisonment for life.</span><br><br>
+               <hr size="5px" color="#FF9900" style="margin-left:30%">
+            <!-- <a href="STCON.html">Read More</a> -->
+            
+            </div>
+        </div>
+    </div>
+</div>   
+
+<!--<div class="row">-->
+<!--<div class="column"> -->
+
+
+<script>
+	const body = document.querySelector('body');
+	document.querySelector('.toggle').onclick = function(){
+		body.classList.toggle('light')}
+</script>
+
+<script type="text/javascript">
+  let progress = document.getElementById('progressbar');
+  let totalHeight = document.body.scrollHeight - window.innerHeight;
+  window.onscroll = function(){
+      let progressHeight = (window.pageYOffset / totalHeight) * 100;
+      progress.style.height = progressHeight + "%";
+  }
+</script>
+</body>
+</html>
+
