@@ -17,7 +17,7 @@
 	<div class="container">
     	<div class="card">
         	<div class="ImgBx">
-            	<img src="assets/L3.jpg">
+            	<img src="assets/Adv8.jpg">
             </div>
             <div class="content">
             	<div class="contentBx">
@@ -33,7 +33,7 @@
         
         <div class="card">
         	<div class="ImgBx">
-            	<img src="assets/Adv8.jpg">
+            	<img src="assets/L3.jpg">
             </div>
             <div class="content">
             	<div class="contentBx">
