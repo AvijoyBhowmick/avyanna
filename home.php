@@ -57,7 +57,7 @@
 </section>
 <br>
 <section id="newbanner" style="margin-top:170px;">
-<div class="container">
+<div class="container" data-0-top="opacity:0;left:100px;"  data-200-top="opacity:1;left:0px;">
   <div class="row">
     <div class="col-md-12">
       <p class="promo-title">Hello there, good person. We’re Avyanna. A legal and
@@ -73,13 +73,13 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
 <section id="banner"style="margin-top:170px;">
   <div class="container">
     <div class="row" >
-      <div class="column col-6">
+      <div class="column col-6" data-0-top="opacity:0;right:100px;"  data-200-top="opacity:1;right:0px;">
         <div class="card" style="margin-bottom:60px">
           <img src="assets/laws.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
           <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="Category.html" role="button">Learn More</a></center>
         </div>
       </div>
-      <div class="column col-6">
+      <div class="column col-6" data-0-top="opacity:0;left:100px;"  data-200-top="opacity:1;left:0px;">
       <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum tenetur consectetur sint laboriosam quidem a,
           doloremque excepturi esse aliquam natus debitis exercitationem alias iusto optio vel nostrum? Odit, deleniti sint.</h3>
       </div>
@@ -91,11 +91,11 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
 <section id="newbanner"style="margin-top:170px;">
   <div class="container">
     <div class="row" >
-      <div class="column col-6">
+      <div class="column col-6" data-0-top="opacity:0;right:100px;"  data-200-top="opacity:1;right:0px;">
       <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum tenetur consectetur sint laboriosam quidem a,
           doloremque excepturi esse aliquam natus debitis exercitationem alias iusto optio vel nostrum? Odit, deleniti sint.</h3>
       </div>
-      <div class="column col-6">
+      <div class="column col-6" data-0-top="opacity:0;left:100px;"  data-200-top="opacity:1;left:0px;">
         <div class="card" style="margin-bottom:60px">
           <img src="assets/advocates.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
           <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="advocates.php" role="button">Learn More</a></center>
@@ -109,13 +109,13 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
 <section id="banner"style="margin-top:170px;">
   <div class="container">
     <div class="row" style="margin-bottom:30px;margin-bottom:30px;margin-left:10px;margin-right:10px">
-      <div class="column col-6">
+      <div class="column col-6" data-0-top="opacity:0;right:100px;"  data-200-top="opacity:1;right:0px;">
         <div class="card" style="margin-bottom:60px">
           <img src="assets/news.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
           <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="news.php" role="button">Learn More</a></center>
         </div>
       </div>
-      <div class="column col-6">
+      <div class="column col-6" data-0-top="opacity:0;left:100px;"  data-200-top="opacity:1;left:0px;">
         <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum tenetur consectetur sint laboriosam quidem a,
           doloremque excepturi esse aliquam natus debitis exercitationem alias iusto optio vel nostrum? Odit, deleniti sint.</h3>
       </div>  
@@ -128,11 +128,11 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
 <section id="newbanner"style="margin-top:170px;">
   <div class="container">
     <div class="row"">
-      <div class="column col-6">
+      <div class="column col-6" data-0-top="opacity:0;right:100px;"  data-200-top="opacity:1;right:0px;">
         <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum tenetur consectetur sint laboriosam quidem a,
           doloremque excepturi esse aliquam natus debitis exercitationem alias iusto optio vel nostrum? Odit, deleniti sint.</h3>
       </div>
-      <div class="column col-6">
+      <div class="column col-6" data-0-top="opacity:0;left:100px;"  data-200-top="opacity:1;left:0px;">
         <div class="card" style="margin-bottom:60px" >
           <img src="assets/aboutus.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
           <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="aboutus.php" role="button">Learn More</a></center>
@@ -184,6 +184,11 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
   </div>
 </section>
 
+<script src="skrollr.js"></script>
+
+<script type="text/javascript">
+	var s = skrollr.init();
+</script>
 
 
 
