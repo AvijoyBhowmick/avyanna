@@ -47,7 +47,7 @@
 <section id="banner">
 <div class="container">
   <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-6" data-0-top="opacity:0;left:100px;"  data-200-top="opacity:1;left:0px;">
       <p class="promo-title">Welcome to Avyanna</p>
       <p>Home of Women Empowerment</p>
     </div>
@@ -142,7 +142,7 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
   </div>
 </section>
 
-<div class="container" width="100%" style="margin-top:30px;margin-bottom:30px">
+<div class="container" width="100%" style="margin-top:30px;margin-bottom:30px" data-0-top="opacity:0;left:100px;"  data-200-top="opacity:1;left:0px;">
 	<div class="row">
 		<div class="col-12" style="margin-left:30px;">
 			<div class="row">
@@ -160,18 +160,18 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
 <!--Safety Tips and Recent Cases--->
 
 <section id="banner"style="margin-top:170px;">
-  <div class="container" width="100%" style="margin-top:30px;margin-bottom:30px">
+  <div class="container" width="100%" style="margin-top:30px;margin-bottom:30px" >
 	  <div class="row">
 		  <div class="col-12">
 			  <div class="row">
-				  <div class="col-6">
+				  <div class="col-6" data-0-top="opacity:0;right:100px;"  data-200-top="opacity:1;right:0px;">
             <a href="recent_cases.php">
 					    <div class="card" style="margin-bottom:60px">
                 <img src="assets/recent_cases.png" alt="">  
               </div>
             </a>
 				  </div>
-				  <div class="col-6">
+				  <div class="col-6" data-0-top="opacity:0;left:100px;"  data-200-top="opacity:1;left:0px;">
             <a href="safetytips.php">  
 					    <div class="card" style="margin-bottom:60px">
                 <img src="assets/safety_tips.png" alt="">
