@@ -75,13 +75,13 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
     <div class="row" >
       <div class="column col-6" data-0-top="opacity:0;right:100px;"  data-200-top="opacity:1;right:0px;">
         <div class="card" style="margin-bottom:60px">
-          <img src="assets/laws.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
+          <img src="assets/ban1.jpg" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
           <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="Category.html" role="button">Learn More</a></center>
         </div>
       </div>
       <div class="column col-6" data-0-top="opacity:0;left:100px;"  data-200-top="opacity:1;left:0px;">
-      <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum tenetur consectetur sint laboriosam quidem a,
-          doloremque excepturi esse aliquam natus debitis exercitationem alias iusto optio vel nostrum? Odit, deleniti sint.</h3>
+      <h2><b>Laws</b></h2>
+      <h3>Legal Information for Women Safety</h3>
       </div>
     </div>
   </div>
@@ -92,12 +92,12 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
   <div class="container">
     <div class="row" >
       <div class="column col-6" data-0-top="opacity:0;right:100px;"  data-200-top="opacity:1;right:0px;">
-      <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum tenetur consectetur sint laboriosam quidem a,
-          doloremque excepturi esse aliquam natus debitis exercitationem alias iusto optio vel nostrum? Odit, deleniti sint.</h3>
+      <h2><b>Advocates</b></h2>
+      <h3>Legal Advice guide for Women Safety</h3>
       </div>
       <div class="column col-6" data-0-top="opacity:0;left:100px;"  data-200-top="opacity:1;left:0px;">
         <div class="card" style="margin-bottom:60px">
-          <img src="assets/advocates.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
+          <img src="assets/ban2.jpg" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
           <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="advocates.php" role="button">Learn More</a></center>
         </div>
       </div>
@@ -111,13 +111,13 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
     <div class="row" style="margin-bottom:30px;margin-bottom:30px;margin-left:10px;margin-right:10px">
       <div class="column col-6" data-0-top="opacity:0;right:100px;"  data-200-top="opacity:1;right:0px;">
         <div class="card" style="margin-bottom:60px">
-          <img src="assets/news.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
+          <img src="assets/ban4.jpg" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
           <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="news.php" role="button">Learn More</a></center>
         </div>
       </div>
       <div class="column col-6" data-0-top="opacity:0;left:100px;"  data-200-top="opacity:1;left:0px;">
-        <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum tenetur consectetur sint laboriosam quidem a,
-          doloremque excepturi esse aliquam natus debitis exercitationem alias iusto optio vel nostrum? Odit, deleniti sint.</h3>
+      <h2><b>News</b></h2>
+      <h3>Crimes on Women News at your fingertips</h3>
       </div>  
     </div>
   </div>
@@ -129,12 +129,12 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
   <div class="container">
     <div class="row"">
       <div class="column col-6" data-0-top="opacity:0;right:100px;"  data-200-top="opacity:1;right:0px;">
-        <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum tenetur consectetur sint laboriosam quidem a,
-          doloremque excepturi esse aliquam natus debitis exercitationem alias iusto optio vel nostrum? Odit, deleniti sint.</h3>
+      <h2><b>About Us</b></h2>
+      <h3>Know the Team behind Avyanna</h3>
       </div>
       <div class="column col-6" data-0-top="opacity:0;left:100px;"  data-200-top="opacity:1;left:0px;">
         <div class="card" style="margin-bottom:60px" >
-          <img src="assets/aboutus.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
+          <img src="assets/ban5.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
           <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="aboutus.php" role="button">Learn More</a></center>
         </div>
       </div>
