@@ -15,10 +15,8 @@
 <link rel="stylesheet" href="CSS/scroll.css">
 
 
-</script>
 </head>
 <body>
-
 
 <!-----Navbar section------->
 
@@ -189,13 +187,14 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
   </div>
 </section>
 
-<!----Footer Section---->
-
-<?php include "footer.php"; ?>
-
 <script src="skrollr.js"></script>
 <script type="text/javascript">
 	var s = skrollr.init();
+</script>
+  
+<!----Footer Section---->
+
+<?php include "footer.php"; ?>
 
 
 </body>
