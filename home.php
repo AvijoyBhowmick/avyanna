@@ -94,11 +94,11 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
       <div class="column col-6" data-0-top="opacity:0;right:100px;"  data-200-top="opacity:1;right:0px;">
       <h2><b>Advocates</b></h2>
       <h3>Legal Advice guide for Women Safety</h3>
+      <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="advocates.php" role="button">Learn More</a></center>
       </div>
       <div class="column col-6" data-0-top="opacity:0;left:100px;"  data-200-top="opacity:1;left:0px;">
         
           <img src="assets/ban2.jpg" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
-          <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="advocates.php" role="button">Learn More</a></center>
         
       </div>
     </div>
