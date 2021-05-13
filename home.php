@@ -13,8 +13,12 @@
 <link rel="stylesheet" href="CSS/home.css">
 <script type="text/javascript" src="JS/scroll-on-scroll.js"></script>
 <link rel="stylesheet" href="CSS/scroll.css">
+
+
+</script>
 </head>
 <body>
+
 
 <!-----Navbar section------->
 
@@ -43,6 +47,7 @@
 </section>
 
 <!-----Banner Section----->
+
 
 <section id="banner">
 <div class="container">
@@ -184,18 +189,13 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
   </div>
 </section>
 
-<script src="skrollr.js"></script>
-
-<script type="text/javascript">
-	var s = skrollr.init();
-</script>
-
-
-
 <!----Footer Section---->
 
 <?php include "footer.php"; ?>
 
+<script src="skrollr.js"></script>
+<script type="text/javascript">
+	var s = skrollr.init();
 
 
 </body>
