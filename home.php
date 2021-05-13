@@ -48,8 +48,8 @@
 <div class="container">
   <div class="row">
     <div class="col-md-6" data-0-top="opacity:0;left:100px;"  data-200-top="opacity:1;left:0px;">
-      <p class="promo-title">Welcome to Avyanna</p>
-      <p>Home of Women Empowerment</p>
+      <h1 class="promo-title" style="font-size: 49px;">Welcome to Avyanna</h1>
+      <h4>Home of Women Empowerment</h4>
     </div>
   </div>
 </div>
@@ -76,12 +76,12 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
       <div class="column col-6" data-0-top="opacity:0;right:100px;"  data-200-top="opacity:1;right:0px;">
         
           <img src="assets/ban6.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
-          <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="Category.html" role="button">Learn More</a></center>
       
       </div>
       <div class="column col-6" data-0-top="opacity:0;left:100px;"  data-200-top="opacity:1;left:0px;">
-      <h2><b>Laws</b></h2>
+      <h2><b><a href="Category.html" style="text-decoration : none; color : #ffffff;">Laws</a></b></h2>
       <h3>Legal Information for Women Safety</h3>
+      <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="Category.html" role="button">Learn More</a></center>
       </div>
     </div>
   </div>
