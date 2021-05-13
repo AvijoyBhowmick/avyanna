@@ -88,6 +88,7 @@ body
 	transition-delay: calc(0.2s * var(--j));
 	background: linear-gradient(45deg,#b95ce4,#4f29cd);
 	color: #fff;
+	height: 90%;
 }
 .container .card .content h2
 {
@@ -99,6 +100,7 @@ body
 	color: rgba(225,225,225,0.05);
 	transition: 0.5s;
 	pointer-events: none;
+	height: 90%;
 }
 .container:hover .card .content h2
 {
