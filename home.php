@@ -78,7 +78,7 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
     <div class="row" >
       <div class="column col-6" data-0-top="opacity:0;right:100px;"  data-200-top="opacity:1;right:0px;">
         
-          <img src="assets/ban6.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
+          <img src="assets/ban6.png" width="80%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
       
       </div>
       <div class="column col-6" data-0-top="opacity:0;left:100px;"  data-200-top="opacity:1;left:0px;">
@@ -101,7 +101,7 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
       </div>
       <div class="column col-6" data-0-top="opacity:0;left:100px;"  data-200-top="opacity:1;left:0px;">
         
-          <img src="assets/ban2.jpg" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
+          <img src="assets/ban9.jpg" width="80%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
         
       </div>
     </div>
@@ -114,7 +114,7 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
     <div class="row" style="margin-bottom:30px;margin-bottom:30px;margin-left:10px;margin-right:10px">
       <div class="column col-6" data-0-top="opacity:0;right:100px;"  data-200-top="opacity:1;right:0px;">
         
-          <img src="assets/ban4.jpg" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
+          <img src="assets/ban8.png" width="80%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
           <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="news.html" role="button">Learn More</a></center>
         
       </div>
@@ -137,7 +137,7 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
       </div>
       <div class="column col-6" data-0-top="opacity:0;left:100px;"  data-200-top="opacity:1;left:0px;">
         
-          <img src="assets/ban5.png" width="100%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
+          <img src="assets/ban5.png" width="80%" height="300"  style="margin-bottom:10px; margin-top: 10px" >
           <center><a class="btn btn-dark btn_nav " style="width: 200px; margin-bottom:20px;" href="aboutus.php" role="button">Learn More</a></center>
         
       </div>
@@ -191,7 +191,7 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
 <script type="text/javascript">
 	var s = skrollr.init();
 </script>
-  
+
 <!----Footer Section---->
 
 <?php include "footer.php"; ?>
