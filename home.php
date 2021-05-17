@@ -36,6 +36,9 @@
             <a class="nav-link" href="Category.html">Category</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="Blog.html">Blogs</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="aboutus.php">About Us</a>
           </li>
         </ul>
