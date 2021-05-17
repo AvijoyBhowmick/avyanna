@@ -167,7 +167,7 @@ safety agency that specialises in Women Empowerment,We are a one stop guide for 
 		  <div class="col-12">
 			  <div class="row">
 				  <div class="col-6" data-0-top="opacity:0;right:100px;"  data-200-top="opacity:1;right:0px;">
-            <a href="recent_cases.php">
+            <a href="RecentC.html">
 					    <div class="card" style="margin-bottom:60px">
                 <img src="assets/recent_cases.png" alt="">  
               </div>
