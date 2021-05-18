@@ -10,7 +10,6 @@
       </p>
     </section>
     <!-- Section: Text -->
-
     <!-- Section: Links -->
     <section class="">
       <!--Grid row-->
