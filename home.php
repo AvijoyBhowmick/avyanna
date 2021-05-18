@@ -13,7 +13,13 @@
 <link rel="stylesheet" href="CSS/home.css">
 <script type="text/javascript" src="JS/scroll-on-scroll.js"></script>
 <link rel="stylesheet" href="CSS/scroll.css">
-
+<style>
+body{
+  height: 100%;
+    margin: 0;
+    padding: 0;
+}
+</style>
 
 </head>
 <body>
