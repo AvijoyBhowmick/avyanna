@@ -4,13 +4,16 @@
 <meta charset="utf-8">
 <title>Kidnapping & Abduction</title>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-<link rel="stylesheet" href="CSS/AB.css">
+<link rel="stylesheet" href="AB.css">
 </head>
 
 <body>
-    <div id="progressbar"></div>
+<div id="progressbar"></div>
     <div id="scrollPath"></div>
-<div class="toggle"></div>
+    <div id="toggle">
+	<i class="indicator"></i>
+</div>
+
 
 <div class="container">
 	<div class="card">
@@ -75,19 +78,12 @@
 
 <script>
 	const body = document.querySelector('body');
-	document.querySelector('.toggle').onclick = function(){
-		body.classList.toggle('light')}
+	const toggle = document.getElementById('toggle');
+	toggle.onclick = function(){
+		toggle.classList.toggle('active');
+		body.classList.toggle('active');
+	}
 </script>
-<!--<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-<script type="text/javascript">
-    $(window).scroll(function(){
-        var scroll = $(window).scrollTop(),
-        dh = $(document).height(),
-        wh = $(window).height();
-        scrollPercent = (scroll/ (dh-wh)) * 100;
-        $('#progressbar').css('height', scrollPercent + '%');
-    })
-</script>-->
 
 <script type="text/javascript">
     let progress = document.getElementById('progressbar');
