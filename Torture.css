@@ -38,7 +38,7 @@ body.active
 {
 	position: relative;
 	width: 1200px;
-	height: 880px;
+	height: 890px;
 	/*box-shadow: inset 5px 5px 5px rgba(0,0,0,0.05),
 	            inset -5px 5px 5px rgba(225,225,225,0.5),
 	             5px 5px 5px rgba(0,0,0,0.05),
@@ -167,7 +167,7 @@ body.active
 }
 
 
-.container .card:hover .box .content p .fa-gavel
+.container .card:hover .box .content span .fa-exclamation-triangle
 {
 	color: #ffa500;
 }
@@ -268,7 +268,7 @@ body.light .container .card
 	            inset -5px 5px 5px rgba(225,225,225,0.5),
 	             5px 5px 5px rgba(0,0,0,0.05),
 	            -5px 5px 5px rgba(225,225,225,0.5);
-	box-shadow: inset 10px 10px 10px rgba(0,0,0,0.03),
+				box-shadow: inset 10px 10px 10px rgba(0,0,0,0.03),
 	            inset -10px -10px 15px rgba(225,225,225,0.5),
 	             10px 10px 10px rgba(0,0,0,0.03),
 	            -10px -10px 15px rgba(225,225,225,0.5);			
@@ -459,11 +459,4 @@ body.active .container .card
 	background: linear-gradient(to top, #008aff, #00ffe7);
 	filter: blur(30px);
 }
-
-
-
-
-
-
-
 

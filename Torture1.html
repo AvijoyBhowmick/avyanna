@@ -5,11 +5,14 @@
 <title>Torture</title>
 </head>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-<link rel="stylesheet" href="CSS/Torture.css">
+<link rel="stylesheet" href="Torture.css">
 <body>
-  <div id="progressbar"></div>
-  <div id="scrollPath"></div>
-<div class="toggle"></div>
+<div id="progressbar"></div>
+    <div id="scrollPath"></div>
+    <div id="toggle">
+	<i class="indicator"></i>
+</div>
+
 
 <div class="container">
 	<div class="card">
@@ -46,17 +49,20 @@
 
 <script>
 	const body = document.querySelector('body');
-	document.querySelector('.toggle').onclick = function(){
-		body.classList.toggle('light')}
+	const toggle = document.getElementById('toggle');
+	toggle.onclick = function(){
+		toggle.classList.toggle('active');
+		body.classList.toggle('active');
+	}
 </script>
 
 <script type="text/javascript">
-  let progress = document.getElementById('progressbar');
-  let totalHeight = document.body.scrollHeight - window.innerHeight;
-  window.onscroll = function(){
-      let progressHeight = (window.pageYOffset / totalHeight) * 100;
-      progress.style.height = progressHeight + "%";
-  }
+    let progress = document.getElementById('progressbar');
+    let totalHeight = document.body.scrollHeight - window.innerHeight;
+    window.onscroll = function(){
+        let progressHeight = (window.pageYOffset / totalHeight) * 100;
+        progress.style.height = progressHeight + "%";
+    }
 </script>
 </body>
 </html>
