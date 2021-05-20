@@ -1,16 +1,25 @@
 <!doctype html>
 <html>
 <head>
-<meta charset="utf-8">
 <title>Rape</title>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-<link rel="stylesheet" href="CSS/Ra.css">
+<link rel="stylesheet" href="Ra.css">
 </head>
 
 <body>
-    <div id="progressbar"></div>
+<!-- <div class="toggle"></div> -->
+
+<div id="progressbar"></div>
     <div id="scrollPath"></div>
-<div class="toggle"></div>
+    
+<!-- <div class="imgBx"><i class="fa fa-camera fa-2x" aria-hidden="true"></i></div> -->
+
+
+
+<div id="toggle">
+	<i class="indicator"></i>
+</div>
+
 
 <div class="container">
 	<div class="card">
@@ -107,10 +116,19 @@ shall be punished with rigorous imprisonment</span> <span>&nbsp;&nbsp;&nbsp;&nbs
 <!--<div class="column"> -->
 
 
-<script>
+<!--<script>
 	const body = document.querySelector('body');
 	document.querySelector('.toggle').onclick = function(){
 		body.classList.toggle('light')}
+</script>-->
+
+<script>
+	const body = document.querySelector('body');
+	const toggle = document.getElementById('toggle');
+	toggle.onclick = function(){
+		toggle.classList.toggle('active');
+		body.classList.toggle('active');
+	}
 </script>
 
 <script type="text/javascript">
